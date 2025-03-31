@@ -26,7 +26,6 @@ $h4_color= "blue";
 $h3_color= "red";
 ?>
 
-
 <h4 style='color: <?php echo $h4_color;?>' > <?php echo "This is testing heading for h4 with color variables"; ?> </h4>
 <h4 style='color: <?php echo $h4_color;?>' > <?php echo "This is testing heading for h4 with color variables"; ?> </h4>
 <h4 style='color: <?php echo $h4_color;?>' > <?php echo "This is testing heading for h4 with color variables"; ?> </h4>
