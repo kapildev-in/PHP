@@ -1,9 +1,15 @@
 <?php
 
-echo "Hello ";
+$variable = "Testing variable";
+$variable_1 = 25;
+$name = "kapil";
+$Name = "Raju";
+
+echo $variable;
 echo "<br>";
-echo "<br>";
-echo "Testing second";
-echo 2+2;
+echo $variable_1 * 5;
+
+echo $name;
+
 
 ?>
