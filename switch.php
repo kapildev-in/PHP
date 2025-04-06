@@ -19,8 +19,6 @@ switch ($favoriteColor) {
         echo "This color is not matched";
         break;
 
-
 }
-
 
 ?>
